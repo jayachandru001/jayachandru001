@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Machine Learning
+- 🔭 I’m currently working on Deep learning, NLP
 - 🌱 I’m currently learning Python,C++
-- 👯 I’m looking to collaborate on ......
-- 🤔 I’m looking for help with ......
+- 👯 I’m looking to collaborate on NLP
+- 🤔 I’m looking for help with NLP
 - 💬 Just tweet me @jayachandru001
 - 📫 How to reach me -Tweet: @jayachandru001 
 - 😄 Pronouns: Call me by name
