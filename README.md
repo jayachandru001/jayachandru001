@@ -1,11 +1,24 @@
-### Hi there 👋
-- 🔭 I’m currently working on Deep learning, NLP
-- 🌱 I’m currently learning Python,C++
-- 👯 I’m looking to collaborate on NLP
-- 🤔 I’m looking for help with NLP
-- 💬 Just tweet me @jayachandru001
-- 📫 How to reach me -Tweet: @jayachandru001 
-- 😄 Pronouns: Call me by name
+### 👋 Hello, I'm Jayachandru K!
+
+🔭 Currently working on **Deep Learning** and **NLP** projects, pushing the boundaries of AI to create impactful solutions.  
+🌱 Continuously learning and improving my skills in **Python** and **C++** to stay at the forefront of machine learning and software development.  
+👯 Always open to **collaborate** on exciting **NLP** and **AI** projects that drive innovation and real-world applications.  
+💬 Feel free to connect and chat with me on **Twitter**: [@jayachandru001](https://twitter.com/jayachandru001) for all things AI, NLP, and tech!  
+📫 Reach out via **email**: jayachandru001@gmail.com or **Twitter** for collaborations, networking, or opportunities.  
+😄 **Pronouns**: Just call me Jayachandru!  
+
+---
+
+### 🚀 Highlights:
+
+- 🌟 **Experienced in Deep Learning, NLP, and Machine Learning**  
+- 💡 Passionate about solving **real-world problems** through data science and AI  
+- 🛠 Skilled in **Python, C++, TensorFlow, PyTorch, and cloud platforms**  
+- 🔥 Always learning, growing, and contributing to the **AI/ML community**!
+
+---
+
+This profile not only showcases your skills but also invites engagement, making it more attractive to HR looking for proactive, collaborative candidates.
 <!--
 **jayachandru001/jayachandru001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -23,8 +36,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jayachandru001&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!--
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jayachandru) 
-
+ -->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
