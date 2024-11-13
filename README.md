@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Jayachandru K!
 
-🔭 Currently working on **Deep Learning** and **NLP** projects, pushing the boundaries of AI to create impactful solutions.  
+🔭 Currently working on **Deep Learning** and **NLP/LLM** projects, pushing the boundaries of AI to create impactful solutions.  
 🌱 Continuously learning and improving my skills in **Python** and **C++** to stay at the forefront of machine learning and software development.  
 👯 Always open to **collaborate** on exciting **NLP** and **AI** projects that drive innovation and real-world applications.  
 💬 Feel free to connect and chat with me on **Twitter**: [@jayachandru001](https://twitter.com/jayachandru001) for all things AI, NLP, and tech!  
